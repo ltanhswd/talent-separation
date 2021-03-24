@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "main:main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "footage">
+            </PersistentString>
+            <PersistentString
+               value = "teamName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "kiemtra():main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "footage">
+            </PersistentString>
+            <PersistentString
+               value = "kqTeam">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
